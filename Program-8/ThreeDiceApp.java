@@ -16,6 +16,7 @@ public class ThreeDiceApp
 	private static int bankerPair, betterPair, bankerA, bankerB, bankerC, betterA, betterB, betterC;
 	private static boolean bankerWin, betterWin, bankerThree, bankerDragons, bankerFlowers;
 	private static boolean bankerAce, betterThree, betterDragons, betterAce, betterFlowers, banker, better;
+	private int test5454;
 	
 	/**
 	*
